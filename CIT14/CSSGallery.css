@@ -1,0 +1,76 @@
+.column, .columnTwo, .columnThree{
+    float:left;
+    width: 45%;
+    padding: 5px;
+}
+
+.row ::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.rowTwo ::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.rowThree ::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.AllRow{
+    margin-left: 100px ;
+    border: 100px;
+}
+
+
+img{
+    border: 2px solid #041E42;
+    border-radius: 30px;
+    width: 100%;
+}
+
+h1{
+    color: #002D62;
+    font-size: 40px;
+    background-color: white;
+    display: inline-block;
+    width: 400px;
+    border: solid black;
+    text-align: center;
+
+}
+
+header{
+    text-align: center;
+    top: 0;
+    padding: 5px;
+}
+
+
+footer{
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    
+}
+
+button{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 2px solid #041E42;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: aliceblue;
+    color: #002D62;
+    width: 100px;
+    padding: 10px;
+}
+

@@ -1,0 +1,72 @@
+
+p{
+    color: black;
+    text-align: left;
+    width: 80%;
+    margin: 0 auto;
+    border: 2px solid black;
+    border-radius: 6px;
+    background-color: antiquewhite;
+    padding: 10px;
+}
+
+
+div.imgAbout{
+    margin-top: 10px;
+    height: auto;
+    width: auto;
+    position: relative;
+    text-align: center;
+}
+
+img{
+    margin-top: 10px;
+    border: 2px solid black;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+footer{
+    text-align: center;
+}
+
+button{
+    background-color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #002D62;
+    cursor: pointer;
+    width: 100px;
+    text-align: center;
+    margin: 20px auto;
+    border: 2px solid black;
+    border-radius: 6px;
+    padding: 10px;
+}
+
+.buttons{
+    width: 960px;
+    margin: 0 auto;
+}
+
+.act-btn{
+    width:500px;
+    margin: 0 auto;
+}
+
+html{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #FAF9F6;
+}
+
+h1{
+    color: #002D62;
+}
+
+
+
+
+
+

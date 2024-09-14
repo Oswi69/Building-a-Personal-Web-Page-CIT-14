@@ -1,0 +1,31 @@
+button{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 2px solid #041E42;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: aliceblue;
+    color: #002D62;
+    width: 100px;
+    margin: 20px auto;
+    padding: 10px;
+
+}
+
+.buttons{
+    text-align: center;
+}
+
+h1{
+    color: #002D62;
+    font-size: 40px;
+}
+
+
+html{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #FAF9F6;
+}
+
+.All{
+    margin-left: 30px;
+}
